@@ -15,10 +15,17 @@ body{
 }
 
 .margin{
-    padding-top: 10px;
+    margin-top: 10px;
+    padding-top: 5px;
+   
     
 }
 
 .parceiros{
     background-color: rgba(84, 84, 134, 0.555);
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
 }
