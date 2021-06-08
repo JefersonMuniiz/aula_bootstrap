@@ -1,0 +1,24 @@
+body{
+    font-family:'Times New Roman', Times, serif ;
+    font-size: 25px;
+}
+
+.container-fluid{
+    background-color: rgba(12, 101, 107, 0.377);
+}
+
+.quem-somos{
+    background-color: #8e938f83;
+    color: white;
+    max-width: 100%; 
+    padding-bottom: 50px;
+}
+
+.margin{
+    padding-top: 10px;
+    
+}
+
+.parceiros{
+    background-color: rgba(84, 84, 134, 0.555);
+}
